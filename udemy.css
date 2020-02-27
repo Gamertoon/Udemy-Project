@@ -1,0 +1,235 @@
+.top{
+  background-color: #EAF6F6;
+ padding-top: 5.8em;
+ position: relative;
+
+}
+/***margin: 0;
+position: absolute;
+left: 37em;
+top: 200px;****/
+.word{
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-size: 1rem;
+margin-top: 2em;
+color: #66BFBF;
+font-weight: normal;
+font-weight: 500;
+
+}
+span{
+  font-family: sans-serif;
+}
+/*****
+.word:hover{
+
+  color: #07f718;
+}
+
+****/
+body{
+  margin: 0;
+  text-align: center;
+}
+.no{
+  color: #40514E;
+}
+
+.bord{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+/****border***/
+.border{
+  border-style: dotted;
+  border-width: 0.5em;
+  border-top: none;
+  width: 4em;
+  color: #EAF6F6;
+
+}
+
+.words{
+font-size: 2rem;
+ text-align: bottom;
+font-family: 'Satisfy', cursive;
+margin-top: 2.8em;
+color: #66BFBF;
+line-height: 2;
+}
+
+h2{
+color: #66BFBF;
+}
+
+h3{
+color: #66BFBF;
+}
+/******I AM Praveen ***/
+}
+
+
+/******Ending ***/
+.middle{
+  background-color: #f90000;
+  height: 150px;
+  width: 200px;
+
+}
+.praveen{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+
+}
+
+.height{
+  line-height: 2;
+padding-bottom: 1em;
+}
+.comp{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+float: left;
+margin-right: 30px;
+}
+
+/****skill****/
+
+.skill{
+  color: #66BFBF;
+}
+
+.button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 24px;
+   font-weight: 500;
+   padding: 14px;
+   box-shadow-color: ;
+   box-shadow-horizontal: 1;
+   box-shadow-vertical: 22;
+   box-shadow-blur: 20;
+   box-shadow-spread: 0;
+   background-color: #66BFBF;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 4em;
+   
+}
+
+.button:hover {
+   background: #1E62D0;
+   border: solid #66BFBF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.mountain{
+  text-align: center;
+  margin-right: 9em;
+
+}
+.bottom{
+  background-color: #0029ff;
+  height: 120px;
+  width: 100px;
+}
+
+
+.absolute{
+position: absolute;
+margin-left: 14em;
+
+}
+/*** bottom: 20em; ***/
+.relative{
+position: static;
+margin-bottom: 18em;
+margin-left: 4em;
+
+}
+.h3{
+  color: #11999E;
+
+}
+
+.one{
+  margin-left: 14em;
+
+}
+.tex{
+margin-left: 10em;
+
+}
+.experience{
+  border-radius: 50%;
+  width: 14em;
+  float: right;
+ margin-left: 0.8em;
+
+}
+.code-discribe{
+
+}
+
+.underline{
+  text-decoration: underline;
+}
+/******* Free Blue Color ***/
+.underline:hover{
+  color: #0305ff;
+}
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+padding-top: 2em;
+
+}
+
+.background{
+  background-color: #50e7d9;
+}
+.bottom-container{
+  background-color: #66BFBF;
+ margin-bottom: 0px;
+  margin-top: 2em;
+padding-top: 2.5em;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coloo{
+
+word-spacing: 2em;
+
+}
+
+.colors{
+  color: #EAF6F6;
+  margin-bottom: 0;
+ padding-bottom: 2em;
+}
+
+.contact-me{
+  font-family: sans-serif;
+}
